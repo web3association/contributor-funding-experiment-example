@@ -4,7 +4,10 @@
 
 ## Contributor Funding Experiment
 
-* [Guides](contributor-funding-experiment/guides.md)
+* [Guides](contributor-funding-experiment/guides/README.md)
+  * [Contributor guide](contributor-funding-experiment/guides/contributor-guide.md)
+  * [Contribution attestation guide](contributor-funding-experiment/guides/contribution-attestation-guide.md)
+  * [Voter guide](contributor-funding-experiment/guides/voter-guide.md)
 
 ## Current Funding Round
 
