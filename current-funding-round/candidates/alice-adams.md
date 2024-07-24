@@ -4,11 +4,7 @@ description: Example contributor proposal
 
 # Alice Adams
 
-<div align="left">
 
-<figure><img src="../../.gitbook/assets/profile2-240.png" alt=""><figcaption></figcaption></figure>
-
-</div>
 
 ## **Contact details**
 
