@@ -46,7 +46,7 @@ Full details on LinkedIn profile.
 * [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) (Jan 2024 - Present) - Worked on a number of new contracts including \[A], \[B], \[C].
   * [github.com/OpenZeppelin/openzeppelin-contracts/pull/4976](https://github.com/OpenZeppelin/openzeppelin-contracts/pull/4976) - I was responsible for developing \[A] which was part of this PR.
   * [github.com/OpenZeppelin/openzeppelin-contracts/pull/5018](https://github.com/OpenZeppelin/openzeppelin-contracts/pull/5018) - I suggested and organised this PR and developed the features \[B] and \[C].
-* [web3.js](https://github.com/web3/web3.js) (Nov 2023 - Feb 2024) - Supported documentation updates.
+* [web3.js](https://github.com/web3/web3.js) (Nov 2023 - Feb 2024) - Helped with a number of documentation updates.
   * [github.com/web3/web3.js/pull/7106](https://github.com/web3/web3.js/pull/7106) - Documentation update.
   * [github.com/web3/web3.js/pull/7089](https://github.com/web3/web3.js/pull/7089) - Documentation update.
 
