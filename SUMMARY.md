@@ -13,4 +13,7 @@
 
 * [Contribution focus](current-funding-round/contribution-focus.md)
 * [Funded contributors](current-funding-round/funded-contributors.md)
-* [Candidates](current-funding-round/candidates.md)
+* [Candidates](current-funding-round/candidates/README.md)
+  * [Alice Adams](current-funding-round/candidates/alice-adams.md)
+  * [Bob Baker](current-funding-round/candidates/bob-baker.md)
+  * [Charlie Collins](current-funding-round/candidates/charlie-collins.md)
