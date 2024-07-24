@@ -6,7 +6,7 @@ description: Example contributor proposal
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/profile1-240.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/diana-davidson.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
