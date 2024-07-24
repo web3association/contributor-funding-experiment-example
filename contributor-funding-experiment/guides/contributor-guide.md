@@ -18,19 +18,20 @@ Contributors have the simple goal of generating as much impact as possible durin
 
 **Contributor proposal process**
 
-To be considered as a contributor candidate:
+To submit your contributor proposal:
 
-1. Fork the funding process GitHub locally from - \[LINK]
-2. Copy the contributor proposal template located in ‘/fund1/candidates/contributor-proposal.md’
-3. Fill in your personal and professional information
-4. Submit your contributor proposal as a pull request
-5. Answer questions and consider any amendments that should be made to the proposal after any feedback has be received
+1. Fork the [GitHub project](https://github.com/web3association/contributor-funding-experiment-example) locally.
+2. Copy the [contributor proposal template](https://github.com/web3association/contributor-funding/blob/main/contributor-funding-experiment/templates/forms/contributor-proposal.md) or copy an [example contributor proposal](https://github.com/web3association/contributor-funding-experiment-example/tree/main/current-funding-round/candidates) and create a file in the candidates folder.
+3. Update the proposal template with your own personal and professional information.
+4. Submit your contributor proposal as a pull request with the title of "Contributor Proposal - Full name" but using your own full name. Check this example.
+5. Share your proposal pull request to the community and the fund operator.&#x20;
+6. Answer any questions and resolve any issues that get identified. Consider any amendments you want to make before the proposal is approved and merged. Once the proposal is merged you will be included in the contributor selection decision.
 
 
 
 **Contributor onboarding**
 
-If you get selected as a funded contributor:
+If you are selected as a funded contributor you will need to follow these onboarding steps:
 
 1. Review the ideas that have been suggested by the founding entities and community - \[LINK]
 2. Indicate your preferences by commenting on the ideas you believe are the most important to work on
