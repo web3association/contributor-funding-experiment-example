@@ -6,11 +6,13 @@ description: A funding guide for contributors
 
 Contributors have the simple goal of generating as much impact as possible during their funded contribution period. Contributors will focus their efforts towards new or existing open source development projects that could generate impact for the ecosystem.
 
+
+
 **Expectations & responsibilities**
 
 * **Self accountability** - Contributors have the autonomy to decide how they use their own time and where they focus their contribution efforts. Contributors should take into account any suggestions and feedback provided by the community and founding entities when deciding how to best allocate their time.
-* **Open source** - Contributors can only work on open source initiatives as these solutions can then be used by the entire community.
-* **Collaboration** - Contributors are expected to collaborate with others in the community and identify shared problems that might need resolving. Effective collaboration can help with reducing the amount of duplicated efforts and outcomes.
+* **Open source contributions** - Contributors can only work on open source initiatives as these solutions can then be used by the entire community.
+* **Collaborative** - Contributors are expected to collaborate with others in the community and identify shared problems that are worth resolving. Effective collaboration should help with reducing the amount of duplicated efforts across the ecosystem.
 
 
 
