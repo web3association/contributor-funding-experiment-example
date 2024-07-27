@@ -14,7 +14,7 @@
 * [Contribution focus](current-funding-round/contribution-focus.md)
 * [Funded contributors](current-funding-round/funded-contributors/README.md)
   * [Alice Adams](current-funding-round/funded-contributors/alice-adams/README.md)
-    * [July 2024](current-funding-round/funded-contributors/alice-adams/july-2024.md)
+    * [June 2024](current-funding-round/funded-contributors/alice-adams/june-2024.md)
 * [Candidates](current-funding-round/candidates/README.md)
   * [Alice Adams](current-funding-round/candidates/alice-adams.md)
   * [Bob Baker](current-funding-round/candidates/bob-baker.md)
