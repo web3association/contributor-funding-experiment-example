@@ -26,6 +26,7 @@ To submit your contributor proposal:
 4. Submit your contributor proposal as a pull request with the title of "Contributor proposal - \[Your full name]". Use this [example proposal pull request](https://github.com/web3association/contributor-funding-experiment-example/pull/1) as a reference.
 5. Share your proposal pull request to the community and the fund operator.&#x20;
 6. Answer any questions and resolve any issues that get identified. Consider any amendments you want to make before the proposal is approved and merged. Once the proposal is merged you will be included in the contributor selection decision.
+7. Fill in the [contributor proposal submission feedback](https://forms.gle/jL5K3vSq6XqusWxE9) form.
 
 
 
@@ -53,3 +54,12 @@ Contributors will repeat these steps each month until their funded term length i
 6. Share the contribution log pull request in the contribution log chat for the funding operator to review.
 7. Consider any amendments to the contribution log that are suggested by the fund operator.
 8. The contribution log will then be approved if the minimum contribution expectations are met. For this experiment, if there are any issues with the contribution log it will be reviewed by the founding entities to make any final decision. If approved the contributor will be eligible for future payment and can start their next month of contribution.
+
+
+
+**End of funding process**
+
+Once a contributors funded period is finished they should complete these last remaining tasks:
+
+1. Ask other contributors or community members to fill in a [contributor peer review & feedback](https://forms.gle/AuuBHr8cJnx8fTNz8) form.
+2. Complete the [contributor experiment feedback](https://forms.gle/4yZjLXy6Cq9u4H2RA) form.

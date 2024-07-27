@@ -8,9 +8,15 @@ Voters are responsible for selecting the most promising contributors that could 
 
 
 
+**Contributor proposal feedback**
+
+After the contributor proposals have been submitted the voters and wider community will be invited to provide any feedback and suggestions they have about the proposals. Contributors can then consider the suggestions and feedback provided before making any final changes to their proposal. Suggestions and feedback will be provided as comments on the proposal pull request.
+
+
+
 **Expressive approval voting**
 
-Approval voting is where voters can approve as many proposal as they like. The voters full voting power is applied when they approve any proposal. The proposals with the most approvals wins the vote. Expressive approval voting will be used for this contributor funding experiment. Expressive approval voting is an adaptation of approval voting.
+Approval voting is where voters can approve as many proposal as they like. The voters full voting power is applied when they approve any proposal. The proposals with the most approvals wins the vote. Expressive approval voting will be used for this contributor funding experiment. Expressive approval voting is an adaptation of approval voting that will be used for the contributor selection voting system.
 
 <div align="left">
 
@@ -47,12 +53,6 @@ Disapproval feedback option descriptions:
 
 
 
-**Contributor proposal feedback**
-
-After the contributor proposals have been submitted the voters and wider community will be invited to provide any feedback and suggestions they have about the proposals. Contributors can then consider the suggestions and feedback provided before making any final changes to their proposal. Suggestions and feedback will be provided as comments on the proposal pull request.
-
-
-
 **Voting process**
 
 A Google Sheet will be created that has all of the contributor candidate proposals listed in the document. All of the voting and feedback options will be available for each candidate as well as a decision disapproval option.
@@ -62,3 +62,12 @@ A Google Sheet will be created that has all of the contributor candidate proposa
 3. Once completed, download the Google Sheet as a Microsoft Excel file (.xlsx).
 4. Submit your voter ID and the Microsoft Excel file in the [contributor selection submission form](https://docs.google.com/forms/d/e/1FAIpQLScX0G8ks6V\_lm0\_EY9MBF5ayIs6HKidqc0if4gsZXrKz-hCuQ/viewform). Do not complete this form more than once as this will invalidate your vote.
 5. After the submission deadline the votes will be aggregated and the voting results will then be shared publicly. Votes will remain anonymous.
+6. Fill in the [contribution selection decision feedback](https://forms.gle/sdsrT7C7aZbL3AXV8) form.
+
+
+
+**End of funding process**
+
+Once the funding round has finished the participating voters should complete these last remaining tasks:
+
+1. Complete the [voter experiment feedback](https://forms.gle/ttvCVPj54vCMV8cQ8) form.
