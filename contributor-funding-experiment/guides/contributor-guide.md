@@ -11,8 +11,8 @@ Contributors have the simple goal of generating as much impact as possible durin
 **Expectations & responsibilities**
 
 * **Self accountability** - Contributors have the autonomy to decide how they use their own time and where they focus their contribution efforts. Contributors should take into account any suggestions and feedback provided by the community and founding entities when deciding how to best allocate their time.
-* **Open source** - Contributors can only work on open source initiatives as these solutions can then be used by the entire community.
-* **Collaboration** - Contributors are expected to collaborate with others in the community and identify shared problems that might need resolving. Effective collaboration can help with reducing the amount of duplicated efforts and outcomes.
+* **Open source contributions** - Contributors can only work on open source initiatives as these solutions can then be used by the entire community.
+* **Collaborative** - Contributors are expected to collaborate with others in the community and identify shared problems that are worth resolving. Effective collaboration should help with reducing the amount of duplicated efforts across the ecosystem.
 
 
 
@@ -23,7 +23,7 @@ To submit your contributor proposal:
 1. Fork the [GitHub project](https://github.com/web3association/contributor-funding-experiment-example) locally.
 2. Copy the [contributor proposal template](https://github.com/web3association/contributor-funding/blob/main/contributor-funding-experiment/templates/forms/contributor-proposal.md) or copy an [example contributor proposal](https://github.com/web3association/contributor-funding-experiment-example/tree/main/current-funding-round/candidates) and create a file in the candidates folder.
 3. Update the proposal template with your own personal and professional information.
-4. Submit your contributor proposal as a pull request with the title of "Contributor Proposal - Full name" but using your own full name. Check this example.
+4. Submit your contributor proposal as a pull request with the title of "Contributor Proposal - \[Your full name]". Use this [example proposal pull request](https://github.com/web3association/contributor-funding-experiment-example/pull/1) as a reference.
 5. Share your proposal pull request to the community and the fund operator.&#x20;
 6. Answer any questions and resolve any issues that get identified. Consider any amendments you want to make before the proposal is approved and merged. Once the proposal is merged you will be included in the contributor selection decision.
 
