@@ -33,11 +33,11 @@ To submit your contributor proposal:
 
 If you are selected as a funded contributor you will need to follow these onboarding steps:
 
-1. Review the ideas that have been suggested by the founding entities and community - \[LINK]
-2. Indicate your preferences by commenting on the ideas you believe are the most important to work on
-3. Join the internal contributor chat to coordinate and collaborate with other contributors and the founding entities - \[LINK]
-4. Join the contribution log chat to share your monthly contribution log pull requests so they can be verified and approved - \[LINK]
-5. Join the open contributor chat to coordinate and collaborate with the community - \[LINK]
+1. Review the contribution board ideas that have been suggested by the founding entities and community.
+2. Indicate your preferences by commenting on the ideas you believe are the most important to work on.
+3. Join the internal contributor chat to coordinate and collaborate with other contributors and the founding entities. Ask the fund operator for a link to join.
+4. Join the open contributor contribution log chat to share your monthly contribution log pull requests so they can be verified and approved.  Ask the fund operator for a link to join.
+5. Join the [open contributor chat](https://t.me/contributorfundingexample) to coordinate and collaborate with the community.
 
 
 
