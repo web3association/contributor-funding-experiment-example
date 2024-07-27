@@ -4,11 +4,11 @@ description: A guide for making attestations about contributions
 
 # Contribution attestation guide
 
-Some contribution efforts are not easy to digitally verify. Contribution attestations enable someone to vouch for another persons contribution efforts. These attestations can help to provide more evidence that a contributor has actually made the contributions they say they have.
+Some contribution efforts are not as easy to digitally verify. Contribution attestations are a way for people to vouch for another contributors contribution efforts. These attestations help to provide some evidence that a contributor has actually made the contributions they say they have.
 
 
 
 **Contribution attestation process**
 
-1. Review the contribution efforts listed in the contribution log. Determine which ones you are able to vouch for based on your own observations and involvement in those contribution efforts.
-2. Fill in the contribution attestation template information and post the attestation as a comment in the pull request. You can find the contribution log attestation template here - \[LINK]
+1. Review the contribution efforts listed in the contributors contribution log. Determine which contribution efforts you are able to vouch for based on your own observations and involvement in those contribution efforts.
+2. Fill in the contribution attestation template information and post the attestation as a comment in the pull request. A [contribution attestation template](https://funding.contributors.org/contributor-funding-experiment/templates/documents/contribution-attestation-form) is available for reference as well as an [example contribution attestation](https://github.com/web3association/contributor-funding-experiment-example/pull/2#issuecomment-2253817574) on a contribution log pull request.
