@@ -12,6 +12,6 @@ The voting results have been aggregated and shared publicly in this [Google Shee
 
 **Funded contributors**&#x20;
 
-{% content-ref url="candidates/alice-adams.md" %}
-[alice-adams.md](candidates/alice-adams.md)
+{% content-ref url="../candidates/alice-adams.md" %}
+[alice-adams.md](../candidates/alice-adams.md)
 {% endcontent-ref %}
