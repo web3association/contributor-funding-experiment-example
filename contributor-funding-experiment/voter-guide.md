@@ -1,16 +1,10 @@
 ---
-description: A funding guide for voters
+description: A contributor funding guide for voters
 ---
 
 # Voter guide
 
 Voters are responsible for selecting the most promising contributors that could generate the most impact for the ecosystem. Voters will need to read and compare a number of contributor proposals to make an informed decision about who they are going to select during voting.
-
-
-
-**Contributor proposal feedback**
-
-After the contributor proposals have been submitted the voters and wider community will be invited to provide any feedback and suggestions they have about the proposals. Contributors can then consider the suggestions and feedback provided before making any final changes to their proposal. Suggestions and feedback will be provided as comments on the proposal pull request.
 
 
 
@@ -20,7 +14,7 @@ Approval voting is where voters can approve as many proposal as they like. The v
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/expressive-approval-voting-contributor-example.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/expressive-approval-voting-contributor-example.png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 

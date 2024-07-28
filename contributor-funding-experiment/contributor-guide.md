@@ -1,5 +1,5 @@
 ---
-description: A funding guide for contributors
+description: A contributor funding guide for contributors
 ---
 
 # Contributor guide
@@ -16,7 +16,7 @@ Contributors have the simple goal of generating as much impact as possible durin
 
 
 
-**Contributor proposal process**
+**Contributor proposal submissions**
 
 To submit your contributor proposal:
 
@@ -59,7 +59,7 @@ Contributors will repeat these steps each month until their funded term length i
 
 **End of funding process**
 
-Once a contributors funded period is finished they should complete these last remaining tasks:
+Once a contributors funded period is finished they should complete the following final tasks:
 
-1. Ask other contributors or community members to fill in a [contributor peer review & feedback](https://forms.gle/AuuBHr8cJnx8fTNz8) form.
+1. Ask any suitable contributors and community members to fill in a [contributor peer review & feedback](https://forms.gle/AuuBHr8cJnx8fTNz8) form.
 2. Complete the [contributor experiment feedback](https://forms.gle/4yZjLXy6Cq9u4H2RA) form.

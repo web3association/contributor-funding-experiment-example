@@ -26,7 +26,7 @@ description: Example contributor proposal
 
 **GitHub** - [github.com/bitcoin](https://github.com/bitcoin)
 
-**Personal Website** - [example2.com](https://example2.com)
+**Personal Website** - [example3.com](https://example3.com)
 
 
 
@@ -52,4 +52,4 @@ New to the ecosystem.
 
 ## **Preferred areas of contribution**
 
-Looking to contribute towards community suggested ideas. Flexible on where I contribute though particularly interested in working on zero knowledge solutions at some point and learn about how it could be applied to the existing or new projects.
+Looking to contribute towards community suggested ideas. Flexible on where I contribute though particularly interested in working on zero knowledge solutions at some point so I can help teams with how it could be applied to the existing or new projects.

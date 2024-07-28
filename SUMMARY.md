@@ -4,14 +4,15 @@
 
 ## Contributor Funding Experiment
 
-* [Guides](contributor-funding-experiment/guides/README.md)
-  * [Contributor guide](contributor-funding-experiment/guides/contributor-guide.md)
-  * [Contribution attestation guide](contributor-funding-experiment/guides/contribution-attestation-guide.md)
-  * [Voter guide](contributor-funding-experiment/guides/voter-guide.md)
+* [Community guide](contributor-funding-experiment/community-guide.md)
+* [Contributor guide](contributor-funding-experiment/contributor-guide.md)
+* [Contribution attestation guide](contributor-funding-experiment/contribution-attestation-guide.md)
+* [Voter guide](contributor-funding-experiment/voter-guide.md)
 
 ## Current Funding Round
 
-* [Contribution focus](current-funding-round/contribution-focus.md)
+* [Priority suggestions](current-funding-round/priority-suggestions.md)
+* [Contribution board](current-funding-round/contribution-focus.md)
 * [Funded contributors](current-funding-round/funded-contributors/README.md)
   * [Alice Adams](current-funding-round/funded-contributors/alice-adams/README.md)
     * [June 2024](current-funding-round/funded-contributors/alice-adams/june-2024.md)
