@@ -24,7 +24,7 @@ The main differences with expressive approval voting compared to approval voting
 * **Added confidence variants** - Approval and disapproval options will be split into three different confidence variants. For approval options these will include ‘Strongly approve’, ‘Approve’ and ‘Somewhat approve’. For disapproval options these will include ‘Somewhat disapprove’, ‘Disapprove’ and ‘Strongly disapprove’. Voters will now be able to express the confidence they have in their decisions. Selecting any of the approval options results in the same outcome - the voters full voting power will be applied and they are approving the proposal. Disapproval votes enable voters to express dissent however these votes would not lead to any change in the decision outcome as the voting power would not be applied. Disapproval voting options are only added to provide proposal feedback.
 * **Added feedback options** - A list of suggested feedback responses are provided for the voter to consider. The voter can select the feedback option that most strongly aligns with the reason they are approving or disapproving the proposal. Voters can only select one of the suggested feedback options. The voter will also be able to give more specific feedback in a separate feedback box if they want to. The suggested approval and disapproval feedback options are described in more detail below.
 * **Added decision disapproval option** - A voter is able to disapprove of the entire set of proposals. A voter may want to do this if they disagree with the decision being made or they believe the quality of the submitted proposals is not high enough. A decision disapproval outcome could then either be abandoned entirely or the decision process could be repeated when higher quality proposals get submitted.
-* **Victory condition additional factors** - The approval confidence variants can be used as an additional victory condition factor in situations where there is a tie between proposals that receive the same amount of voting power. In these situations the confidence variants can be used as a secondary factor to determine which proposals the voters have the highest confidence in selecting. The disapproval voting options will still have no impact on the outcome of the decision. In the event that there is still a tie between the remaining proposals a ranked choice vote will take place between the tied proposals.
+* **Victory condition additional factors** - The approval confidence variants can be used as an additional victory condition factor in situations where there is a tie between proposals that receive the same amount of approval voting power. In these situations the confidence variants can be used as a secondary factor to determine which proposals the voters have the highest confidence in selecting. The disapproval voting options will still have no impact on the outcome of the decision. In the event that there is still a tie between the remaining proposals a ranked choice vote will take place between the tied proposals.
 
 
 
@@ -51,17 +51,16 @@ Disapproval feedback option descriptions:
 
 A Google Sheet will be created that has all of the contributor candidate proposals listed in the document. All of the voting and feedback options will be available for each candidate as well as a decision disapproval option.
 
-1. Register with the fund operator to receive a voter ID. The voting form will require a voter ID for the voting submission to be valid.
-2. Review the contributor candidate proposals and then duplicate and fill in the following contributor candidate selection [Google Sheet](https://docs.google.com/spreadsheets/d/1\_zcD70njyQFBaA6qXIIfudS1hEhlMo3zZ5035py3Nwg/edit?usp=sharing).
-3. Once completed, download the Google Sheet as a Microsoft Excel file (.xlsx).
-4. Submit your voter ID and the Microsoft Excel file in the [contributor selection submission form](https://docs.google.com/forms/d/e/1FAIpQLScX0G8ks6V\_lm0\_EY9MBF5ayIs6HKidqc0if4gsZXrKz-hCuQ/viewform). Do not complete this form more than once as this will invalidate your vote.
-5. After the submission deadline the votes will be aggregated and the voting results will then be shared publicly. Votes will remain anonymous.
-6. Fill in the [contribution selection decision feedback](https://forms.gle/sdsrT7C7aZbL3AXV8) form.
+1. **Register to vote** - Register with the fund operator to receive a voter ID. The voting form will require a voter ID for the voting submission to be valid.
+2. **Fill in the voting form** - Review the contributor candidate proposals and then duplicate and fill in the following contributor candidate selection [Google Sheet](https://docs.google.com/spreadsheets/d/1\_zcD70njyQFBaA6qXIIfudS1hEhlMo3zZ5035py3Nwg/edit?usp=sharing). Once completed, download the Google Sheet as a Microsoft Excel file (.xlsx).
+3. **Submit voting form** - Submit your voter ID and the Microsoft Excel file in the [contributor selection submission form](https://docs.google.com/forms/d/e/1FAIpQLScX0G8ks6V\_lm0\_EY9MBF5ayIs6HKidqc0if4gsZXrKz-hCuQ/viewform). Do not complete this form more than once as this will invalidate your vote.
+4. **Wait for voting results** - After the submission deadline the votes will be aggregated and the voting results will then be shared publicly. Votes will remain anonymous.
+5. **Complete contribution selection feedback questionnaire** - Fill in the [contribution selection decision feedback](https://forms.gle/sdsrT7C7aZbL3AXV8) questionnaire.
 
 
 
-**End of funding process**
+**Completed funding process**
 
-Once the funding round has finished the participating voters should complete these last remaining tasks:
+The participating voters should complete a final questionnaire when the funding round has completed.
 
-1. Complete the [voter experiment feedback](https://forms.gle/ttvCVPj54vCMV8cQ8) form.
+1. **Complete voter experiment feedback questionnaire** - Complete the [voter experiment feedback](https://forms.gle/ttvCVPj54vCMV8cQ8) questionnaire.
