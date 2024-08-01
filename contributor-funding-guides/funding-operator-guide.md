@@ -65,14 +65,15 @@ Once the contributors have been selected the next step is for the funding operat
 
 
 
-**Contribution process**
+**Monthly contributions**
 
 Contributors will receive support and guidance from the funding operator during each contribution month. The funding operator will be responsible to verifying contribution logs so that a contributor can receive their next payment.
 
-1. **Support prioritisation decisions** - Request feedback from community members and founding entities about the current priorities and tasks that are being planned for execution. Support any issues around prioritisation if they emerge.
-2. **Support planning and collaboration efforts** - Contributors could benefit from some support when planning their contribution efforts and collaborating with others in the ecosystem. The fund operator can help with identifying ways to increase collaboration where possible between contributors and also between existing projects and the contributors. Fund operators can also help with preventing any overlapping contribution efforts where possible.
-3. **Review and approve contribution logs** - At the end of each contribution month a contribution log will be submitted by each contributor. The fund operator will need to review these logs to check the outputs seem fair and reasonable. If there is a concern around performance it will be discussed with the founding entities. Provide any feedback where necessary to improve the structure or information that has been provided. If everything appears reasonable and well documented then the contribution log can be approved and merged.
-4. **Release contributor payment -** Ongoing contribution payment will rely on the approval of contribution logs. Once a contribution log is approved the contributors next payment should be released.
+1. **Respond to community questions** - Each month it will be likely that community members and contributors will share concerns, opinions and ask questions about the funding process. These conversations could lead to improvements or changes to the funding process.
+2. **Support prioritisation decisions** - Request feedback from community members and founding entities about the current priorities and tasks that are being planned for execution. Support any issues around prioritisation if they emerge.
+3. **Support planning and collaboration efforts** - Contributors could benefit from some support when planning their contribution efforts and collaborating with others in the ecosystem. The fund operator can help with identifying ways to increase collaboration where possible between contributors and also between existing projects and the contributors. Fund operators can also help with preventing any overlapping contribution efforts where possible.
+4. **Review and approve contribution logs** - At the end of each contribution month a contribution log will be submitted by each contributor. The fund operator will need to review these logs to check the outputs seem fair and reasonable. If there is a concern around performance it will be discussed with the founding entities. Provide any feedback where necessary to improve the structure or information that has been provided. If everything appears reasonable and well documented then the contribution log can be approved and merged.
+5. **Release contributor payment -** Ongoing contribution payment will rely on the approval of contribution logs. Once a contribution log is approved the contributors next payment should be released.
 
 
 
