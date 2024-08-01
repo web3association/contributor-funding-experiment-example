@@ -2,12 +2,13 @@
 
 * [About](README.md)
 
-## Contributor Funding Experiment
+## Contributor Funding Guides
 
-* [Community guide](contributor-funding-experiment/community-guide.md)
-* [Contributor guide](contributor-funding-experiment/contributor-guide.md)
-* [Contribution attestation guide](contributor-funding-experiment/contribution-attestation-guide.md)
-* [Voter guide](contributor-funding-experiment/voter-guide.md)
+* [Community guide](contributor-funding-guides/community-guide.md)
+* [Contributor guide](contributor-funding-guides/contributor-guide.md)
+* [Contribution attestation guide](contributor-funding-guides/contribution-attestation-guide.md)
+* [Voter guide](contributor-funding-guides/voter-guide.md)
+* [Funding operator guide](contributor-funding-guides/funding-operator-guide.md)
 
 ## Current Funding Round
 
