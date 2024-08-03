@@ -51,11 +51,14 @@ Disapproval feedback option descriptions:
 
 A Google Sheet will be created that has all of the contributor candidate proposals listed in the document. All of the voting and feedback options will be available for each candidate as well as a decision disapproval option.
 
-1. **Register to vote** - Register with the fund operator to receive a voter ID. The voting form will require a voter ID for the voting submission to be valid.
+1. **Register to vote** - Register with the fund operator to receive a voter ID. The voting form will require a voter ID for the voting submission to be valid.\
+   &#x20;    :date: _Start date: 12:00pm 09/07/24, End date: 12:00pm 12/07/24_
 2. **Fill in the voting form** - Review the contributor candidate proposals and then duplicate and fill in the following contributor candidate selection [Google Sheet](https://docs.google.com/spreadsheets/d/1\_zcD70njyQFBaA6qXIIfudS1hEhlMo3zZ5035py3Nwg/edit?usp=sharing). Once completed, download the Google Sheet as a Microsoft Excel file (.xlsx).
-3. **Submit voting form** - Submit your voter ID and the Microsoft Excel file in the [contributor selection submission form](https://docs.google.com/forms/d/e/1FAIpQLScX0G8ks6V\_lm0\_EY9MBF5ayIs6HKidqc0if4gsZXrKz-hCuQ/viewform). Do not complete this form more than once as this will invalidate your vote.
+3. **Submit voting form** - Submit your voter ID and the Microsoft Excel file in the [contributor selection submission form](https://docs.google.com/forms/d/e/1FAIpQLScX0G8ks6V\_lm0\_EY9MBF5ayIs6HKidqc0if4gsZXrKz-hCuQ/viewform). Do not complete this form more than once as this will invalidate your vote.\
+   &#x20;    :date: _Start date: 12:00pm 13/07/24, End date: 12:00pm 20/07/24_
 4. **Wait for voting results** - After the submission deadline the votes will be aggregated and the voting results will then be shared publicly. Votes will remain anonymous.
-5. **Complete contribution selection feedback questionnaire** - Fill in the [contribution selection decision feedback](https://forms.gle/sdsrT7C7aZbL3AXV8) questionnaire.
+5. **Complete contribution selection feedback questionnaire** - Fill in the [contribution selection decision feedback](https://forms.gle/sdsrT7C7aZbL3AXV8) questionnaire.\
+   &#x20;    :date: _Start date: 12:00pm 21/07/24, End date: 12:00pm 28/07/24_
 
 
 
@@ -63,4 +66,5 @@ A Google Sheet will be created that has all of the contributor candidate proposa
 
 The participating voters should complete a final questionnaire when the funding round has completed.
 
-1. **Complete voter experiment feedback questionnaire** - Complete the [voter experiment feedback](https://forms.gle/ttvCVPj54vCMV8cQ8) questionnaire.
+1. **Complete voter experiment feedback questionnaire** - Complete the [voter experiment feedback](https://forms.gle/ttvCVPj54vCMV8cQ8) questionnaire.\
+   &#x20;    :date: _Start date: 12:00pm 02/02/25, End date: 12:00pm 09/02/25_

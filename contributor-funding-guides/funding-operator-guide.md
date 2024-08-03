@@ -10,6 +10,8 @@ The funding operator is responsible for ensuring the funding process is run corr
 
 **Priority suggestion board setup**
 
+:date: _Completion date: 12:00pm 15/06/24_
+
 The first task for the fund operator is to setup a priority suggestion board that will help with identifying whether there are enough impactful open source initiatives to work on.
 
 1. **Setup funding process chat channel** - A Telegram chat needs to be setup for answering any questions about the funding process. This will be shared publicly with the community.
@@ -20,6 +22,8 @@ The first task for the fund operator is to setup a priority suggestion board tha
 
 
 **Contributor proposal setup**
+
+:date: _Completion date: 12:00pm 01/07/24_
 
 The fund operator now needs to setup a proposal process to let community members submit their contributor proposals.
 
@@ -34,6 +38,8 @@ The fund operator now needs to setup a proposal process to let community members
 
 **Finalise funding process**
 
+:date: _Completion date: 12:00pm 08/07/24_
+
 To finish setting up the funding process the fund operator will need to finalise any decisions and parameters with the founding entities before setting up any remaining tools and services.
 
 1. **Finalise decisions & parameters** - Finalise the approaches that will be used for the funding process and decide on any remaining parameter decisions with the founding entities.
@@ -45,6 +51,8 @@ To finish setting up the funding process the fund operator will need to finalise
 
 
 **Voting**
+
+:date: _Completion date: 12:00pm 12/07/24_
 
 The voting process will enable voters to select their preferred contributors that they believe could generate the most impact.
 
@@ -58,6 +66,8 @@ The voting process will enable voters to select their preferred contributors tha
 
 **Contributor onboarding**
 
+:date: _Completion date: 12:00pm 30/07/24_
+
 Once the contributors have been selected the next step is for the funding operator to onboard the successful contributors.
 
 1. **Invite contributors to join chat channels -** Only successful contributors should be invited to the internal contributor chat and the contribution log chat. All contributors and any community members can join the open contributor chat.
@@ -67,9 +77,11 @@ Once the contributors have been selected the next step is for the funding operat
 
 **Monthly contributions**
 
+:date: Start date: 12:00pm 01/08/24, End date_: 12:00pm 01/02/25_
+
 Contributors will receive support and guidance from the funding operator during each contribution month. The funding operator will be responsible to verifying contribution logs so that a contributor can receive their next payment.
 
-1. **Respond to community questions** - Each month it will be likely that community members and contributors will share concerns, opinions and ask questions about the funding process. These conversations could lead to improvements or changes to the funding process.
+1. **Respond to community questions** - Each month community members and contributors might want to share their concerns and opinions or ask questions about the funding process. Respond to these questions and conversations to identify any ideas that could help with improving the funding process.
 2. **Support prioritisation decisions** - Request feedback from community members and founding entities about the current priorities and tasks that are being planned for execution. Support any issues around prioritisation if they emerge.
 3. **Support planning and collaboration efforts** - Contributors could benefit from some support when planning their contribution efforts and collaborating with others in the ecosystem. The fund operator can help with identifying ways to increase collaboration where possible between contributors and also between existing projects and the contributors. Fund operators can also help with preventing any overlapping contribution efforts where possible.
 4. **Review and approve contribution logs** - At the end of each contribution month a contribution log will be submitted by each contributor. The fund operator will need to review these logs to check the outputs seem fair and reasonable. If there is a concern around performance it will be discussed with the founding entities. Provide any feedback where necessary to improve the structure or information that has been provided. If everything appears reasonable and well documented then the contribution log can be approved and merged.
@@ -79,7 +91,11 @@ Contributors will receive support and guidance from the funding operator during 
 
 **Funding process completion**
 
-1. **Share contributor peer review questionnaire** - Invite contributors and community members to give feedback to the other contributors once the funding round has been completed.
-2. **Share voter feedback questionnaire** - Invite voters to give their feedback about the funding process.
-3. **Share contributor feedback questionnaire** - Once peer review feedback and voter feedback is completed the contributors should then be invited to give their feedback about the funding process.
-4. **Analyse and present funding outcome results** - Release the results from the questionnaires to the community. All of the funding and questionnaire data should be publicly accessible. Analyse the data that is available to identify any trends that are worth mentioning. Create a final report that covers the trends and statistics that emerged from that funding round, what improvements could be made in a future funding round and finally how effective the funding process was overall compared to other rounds or grants processes.
+1. **Share contributor peer review questionnaire** - Invite contributors and community members to give feedback to the other contributors once the funding round has been completed.\
+   &#x20;    :date: Start date: 12:00pm 20/01/25, End date_: 12:00pm 02/02/25_
+2. **Share voter feedback questionnaire** - Invite voters to give their feedback about the funding process.\
+   &#x20;    :date: Start date: 12:00pm 02/02/25, End date_: 12:00pm 09/02/25_
+3. **Share contributor feedback questionnaire** - Once peer review feedback and voter feedback is completed the contributors should then be invited to give their feedback about the funding process.\
+   &#x20;    :date: Start date: 12:00pm 10/02/25, End date_: 12:00pm 17/02/25_
+4. **Analyse and present funding outcome results** - Release the results from the questionnaires to the community. All of the funding and questionnaire data should be publicly accessible. Analyse the data that is available to identify any trends that are worth mentioning. Create a final report that covers the trends and statistics that emerged from that funding round, what improvements could be made in a future funding round and finally how effective the funding process was overall compared to other rounds or grants processes.\
+   &#x20;    :date: Start date: 12:00pm 18/02/25, End date_: 12:00pm 04/03/25_

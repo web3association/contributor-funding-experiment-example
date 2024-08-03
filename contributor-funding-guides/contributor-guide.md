@@ -22,13 +22,18 @@ Contributors need to submit a proposal to be considered as a contributor candida
 
 1. **Copy contributor proposal template** - Fork the [GitHub project](https://github.com/web3association/contributor-funding-experiment-example) locally. Copy the [contributor proposal template](https://github.com/web3association/contributor-funding/blob/main/contributor-funding-experiment/templates/forms/contributor-proposal.md) or copy an [example contributor proposal](https://github.com/web3association/contributor-funding-experiment-example/tree/main/current-funding-round/candidates) and create a file in the candidates folder.
 2. **Fill in contributor proposal** - Update the proposal template with your own personal and professional information.
-3. **Create pull request** - Submit your contributor proposal as a pull request with the title of "Contributor proposal - \[Your full name]". Use this [example proposal pull request](https://github.com/web3association/contributor-funding-experiment-example/pull/1) as a reference. Share your proposal pull request with the community and the fund operator.&#x20;
-4. **Review proposal feedback** - Answer any questions and resolve any issues that get identified. Consider any amendments you want to make before the proposal is approved and merged. Once the proposal is merged you will be included in the contributor selection decision.
-5. **Complete proposal submission feedback questionnaire** - Fill in the [contributor proposal submission feedback](https://forms.gle/jL5K3vSq6XqusWxE9) questionnaire.
+3. **Submit contributor proposal** - Submit your contributor proposal as a pull request with the title of "Contributor proposal - \[Your full name]". Use this [example proposal pull request](https://github.com/web3association/contributor-funding-experiment-example/pull/1) as a reference. Share your proposal pull request with the community and the fund operator.\
+   &#x20;    :date: _Start date: 12:00pm 16/06/24, End date: 12:00pm 30/06/24_
+4. **Review proposal feedback** - Answer any questions and resolve any issues that get identified. Consider any amendments you want to make before the proposal is approved and merged. Once the proposal is merged you will be included in the contributor selection decision.\
+   &#x20;    :date: _Start date: 12:00pm 01/07/24, End date: 12:00pm 08/07/24_
+5. **Complete proposal submission feedback questionnaire** - Fill in the [contributor proposal submission feedback](https://forms.gle/jL5K3vSq6XqusWxE9) questionnaire.\
+   &#x20;    :date: _Start date: 12:00pm 09/07/24, End date: 12:00pm 16/07/24_
 
 
 
 **Contributor onboarding**
+
+:date: _Start date: 12:00pm 23/07/24, End date: 12:00pm 30/07/24_
 
 Contributors that were successful in the voting decision will now be onboarded.
 
@@ -42,6 +47,8 @@ Contributors that were successful in the voting decision will now be onboarded.
 
 
 **Monthly contributions**
+
+:date: _Start date: 12:00pm 01/08/24, End date: 12:00pm 01/02/25_
 
 Each month a contributor will need to complete a months worth of contribution efforts. Contribution outputs will be recorded in a contribution log and this will be checked and approved by the fund operator.
 
@@ -58,5 +65,7 @@ Each month a contributor will need to complete a months worth of contribution ef
 
 Once a contributors funded period is finished they should complete some final questionnaires.
 
-1. **Share contributor peer review questionnaire** - Ask any suitable contributors and community members to fill in a [contributor peer review & feedback](https://forms.gle/AuuBHr8cJnx8fTNz8) questionnaire.
-2. **Complete contributor experiment questionnaire** - Complete the [contributor experiment feedback](https://forms.gle/4yZjLXy6Cq9u4H2RA) questionnaire.
+1. **Share contributor peer review questionnaire** - Ask any suitable contributors and community members to fill in a [contributor peer review & feedback](https://forms.gle/AuuBHr8cJnx8fTNz8) questionnaire.\
+   &#x20;    :date: _Start date: 12:00pm 20/01/25, End date: 12:00pm 02/02/25_
+2. **Complete contributor experiment questionnaire** - Complete the [contributor experiment feedback](https://forms.gle/4yZjLXy6Cq9u4H2RA) questionnaire.\
+   &#x20;   :date: _Start date: 12:00pm 10/02/25, End date: 12:00pm 17/02/25_

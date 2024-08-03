@@ -12,6 +12,7 @@
 
 ## Current Funding Round
 
+* [Funding timeline & dates](current-funding-round/funding-timeline-and-dates.md)
 * [Priority suggestions](current-funding-round/priority-suggestions.md)
 * [Contribution board](current-funding-round/contribution-focus.md)
 * [Funded contributors](current-funding-round/funded-contributors/README.md)
