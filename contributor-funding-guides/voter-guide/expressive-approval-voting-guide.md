@@ -1,20 +1,14 @@
 ---
-description: A contributor funding guide for voters
+description: A guide for understanding expressive approval voting
 ---
 
-# Voter guide
-
-Voters are responsible for selecting the most promising contributors that could generate the most impact for the ecosystem. Voters will need to read and compare a number of contributor proposals to make an informed decision about who they are going to select during voting.
-
-
-
-**Expressive approval voting**
+# Expressive approval voting guide
 
 Approval voting is where voters can approve as many proposal as they like. The voters full voting power is applied when they approve any proposal. The proposals with the most approvals wins the vote. Expressive approval voting will be used for this contributor funding experiment. Expressive approval voting is an adaptation of approval voting that will be used for the contributor selection voting system.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/expressive-approval-voting-contributor-example.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/expressive-approval-voting-contributor-example.png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -44,27 +38,3 @@ Disapproval feedback option descriptions:
 * **Lack of ecosystem involvement** - Contributor has not been actively involved in the ecosystem. The contributor might have a lack of understanding about the ecosystem, how it operates and how projects are being developed. There also could be concerns around cultural fit.
 * **Lack of evidence** - Contributor has not provided sufficient evidence to demonstrate their potential. The evidence currently provided does not sufficiently demonstrate their skills & expertise, ecosystem involvement or historical performance.
 * **Salary too high** - The salary requested by the contributor is too high. The evidence provided by the contributor does not support the salary expectations they have.
-
-
-
-**Voting process**
-
-A Google Sheet will be created that has all of the contributor candidate proposals listed in the document. All of the voting and feedback options will be available for each candidate as well as a decision disapproval option.
-
-1. **Register to vote** - Register with the fund operator to receive a voter ID. The voting form will require a voter ID for the voting submission to be valid.\
-   &#x20;    :date: _Start date: 12:00pm 09/07/24, End date: 12:00pm 12/07/24_
-2. **Fill in the voting form** - Review the contributor candidate proposals and then duplicate and fill in the following contributor candidate selection [Google Sheet](https://docs.google.com/spreadsheets/d/1\_zcD70njyQFBaA6qXIIfudS1hEhlMo3zZ5035py3Nwg/edit?usp=sharing). Once completed, download the Google Sheet as a Microsoft Excel file (.xlsx).
-3. **Submit voting form** - Submit your voter ID and the Microsoft Excel file in the [contributor selection submission form](https://docs.google.com/forms/d/e/1FAIpQLScX0G8ks6V\_lm0\_EY9MBF5ayIs6HKidqc0if4gsZXrKz-hCuQ/viewform). Do not complete this form more than once as this will invalidate your vote.\
-   &#x20;    :date: _Start date: 12:00pm 13/07/24, End date: 12:00pm 20/07/24_
-4. **Wait for voting results** - After the submission deadline the votes will be aggregated and the voting results will then be shared publicly. Votes will remain anonymous.
-5. **Complete contribution selection feedback questionnaire** - Fill in the [contribution selection decision feedback](https://forms.gle/sdsrT7C7aZbL3AXV8) questionnaire.\
-   &#x20;    :date: _Start date: 12:00pm 21/07/24, End date: 12:00pm 28/07/24_
-
-
-
-**Completed funding process**
-
-The participating voters should complete a final questionnaire when the funding round has completed.
-
-1. **Complete voter experiment feedback questionnaire** - Complete the [voter experiment feedback](https://forms.gle/ttvCVPj54vCMV8cQ8) questionnaire.\
-   &#x20;    :date: _Start date: 12:00pm 02/02/25, End date: 12:00pm 09/02/25_

@@ -7,7 +7,8 @@
 * [Community guide](contributor-funding-guides/community-guide.md)
 * [Contributor guide](contributor-funding-guides/contributor-guide.md)
 * [Contribution attestation guide](contributor-funding-guides/contribution-attestation-guide.md)
-* [Voter guide](contributor-funding-guides/voter-guide.md)
+* [Voter guide](contributor-funding-guides/voter-guide/README.md)
+  * [Expressive approval voting guide](contributor-funding-guides/voter-guide/expressive-approval-voting-guide.md)
 * [Funding operator guide](contributor-funding-guides/funding-operator-guide.md)
 
 ## Current Funding Round
