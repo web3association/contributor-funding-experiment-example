@@ -37,7 +37,7 @@ Contributors need to submit a proposal to be considered as a contributor candida
 
 Contributors that were successful in the voting decision will now be onboarded.
 
-1. **Review priority suggestions** - Review the [priority suggestions](https://web3association.canny.io/contributor-funding-example) that have been shared by the founding entities and community.
+1. **Review priority suggestions** - Review the [priority suggestions](https://web3association.canny.io/priority-suggestions-example) that have been shared by the founding entities and community.
 2. **Share preferences** - Indicate any preferences you have by commenting on the suggestions that you believe are the most important to work on and how you could help with addressing that priority.
 3. **Join internal contributor chat** - Join the [internal contributor chat](https://t.me/contributorfundingexample) channels to coordinate and collaborate with other contributors and the funding operator. Ask the fund operator for a link to join.
 4. **Join contribution log chat** - Join the [contribution log chat](https://t.me/contributorfundingexample) so you can share your monthly contribution log pull requests with the fund operator. Ask the fund operator for a link to join.

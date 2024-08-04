@@ -14,7 +14,7 @@ The community includes everyone in the ecosystem. This means the guide is for th
 
 Anyone in the community can suggest new priorities that the contributors will consider when deciding where they direct their contribution efforts. Community members are also encouraged to upvote the most important suggestions so that contributors are aware of the priorities that the community believes are the most important.
 
-1. **Review priority suggestions** - Go to the [priority suggestions board](https://web3association.canny.io/contributor-funding-example) and review any existing priority suggestions.
+1. **Review priority suggestions** - Go to the [priority suggestions board](https://web3association.canny.io/priority-suggestions-example) and review any existing priority suggestions.
 2. **Submit priority suggestions** - If a priority suggestion doesn't exist that you believe is important you can create one with a title and description. At the bottom of the description add a "Source:" heading and then list out any links that provide evidence about the relevance and importance of the suggested priority. Share any priority suggestions you created with other community members for them to review.
 3. **Respond to existing priority suggestions** - Provide any feedback you have to any existing priority suggestions. Upvote the suggestions that you believe are the most important for the ecosystem to focus on.
 

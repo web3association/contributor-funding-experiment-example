@@ -6,4 +6,4 @@ Use the [community guide](../contributor-funding-guides/community-guide.md) to l
 
 You can find the priority suggestions board here:
 
-{% embed url="https://web3association.canny.io/contributor-funding-example" %}
+{% embed url="https://web3association.canny.io/priority-suggestions-example" %}
