@@ -10,6 +10,10 @@
 
 **Contribution logs**
 
+{% content-ref url="july-2024.md" %}
+[july-2024.md](july-2024.md)
+{% endcontent-ref %}
+
 {% content-ref url="june-2024.md" %}
 [june-2024.md](june-2024.md)
 {% endcontent-ref %}
